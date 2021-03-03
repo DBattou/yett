@@ -8,6 +8,9 @@
     "blocker",
     "yett"
   ],
+  "files": [	
+    "docs/lib"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/snipsco/yett"
