@@ -9,7 +9,7 @@
     "yett"
   ],
   "files": [	
-    "docs/lib"
+    "dist"
   ],
   "repository": {
     "type": "git",
